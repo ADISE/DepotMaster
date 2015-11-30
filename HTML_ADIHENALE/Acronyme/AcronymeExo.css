@@ -1,0 +1,14 @@
+
+h1{border:groove 10pt navy; text-align: center; background-color: #DDA0DD; font-family : Arial; font-size:16pt; width :30%; color:navy; padding: 5pt; margin-left: auto; margin-right: auto;  margin-bottom:20pt;}
+
+p{font-weight: bold; color:violet;}
+.to{ font-weight: bold; color:violet; text-decoration:underline;}
+
+table{background-color:rgb(255,105,180); width :50%; margin-left: auto; margin-right: auto;}
+
+thead{text-align: center; height : 30pt;}
+
+tbody{background-color:rgb(255,192,203)}
+
+.definition{border: solid 5pt #4B0082; background-color: rgb(176,224,230);}
+.bordure{ border: dotted white 3pt; padding-left: 3pt; padding-right:5pt; color: violet; font-weight: bold;}

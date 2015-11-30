@@ -1,0 +1,10 @@
+h1{border:solid 3pt navy;text-align: center;color:navy;width :60%; margin-left: 10%;}
+h2{text-decoration:underline; }
+
+a{font-weight: bold;font-family :Courier New fuchsia; color:violet;}
+li{margin-bottom:20pt;}
+img{border:solid; color:violet;}
+body{background-image:url(Collines.jpg); 
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-position: 5px 50px;}

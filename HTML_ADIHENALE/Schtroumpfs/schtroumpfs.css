@@ -1,0 +1,8 @@
+h1{border:solid 3pt #0000AA; color: #BB0000; text-align: center; padding: 3pt; margin-top: 5pt; margin-bottom:3pt; background-color:#B0E0E6; }
+h2{ color: #0000BB; text-decoration:underline;}
+h3{ color: #0000BB; text-decoration:underline;}
+h4{ color: #0000BB; text-decoration:underline;}
+table{background-color: #B0E0E6; border: solid navy;}
+.ti{ background-color: #00CEAA ; border:solid navy ;}
+.c{background-color: #87CEFA; border:solid navy ;}
+tbody{height:100pt; border: solid gray;}

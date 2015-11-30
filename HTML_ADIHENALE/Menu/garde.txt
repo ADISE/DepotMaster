@@ -1,0 +1,48 @@
+li{ 
+
+
+
+ 
+background-color:#FFDAB9;
+left:; 
+background-color:#DEB887;}
+
+#colonne1{width:140px; 
+
+   height:100px; 
+
+   background-color: #DEB887; 
+
+   float:left;}
+   
+   #colonne2{width:140px; 
+
+   height:60px; 
+
+   background-color:#FFFFA0; 
+
+   float:center;}
+   
+   # colonne3{width:140px; 
+
+   height:60px;
+
+   background-color:#CDA0A0; 
+
+   float:right;}
+   
+   #conteneur{
+
+   width:300px; 
+
+   margin-top:20px; 
+
+   padding-bottom:25px; 
+
+   padding-top:5px;
+}
+#bas{
+
+   clear:both;
+}
+   
